@@ -1,0 +1,3 @@
+[submodule "VSCN_Homepage"]
+	path = VSCN_Homepage
+	url = git@github.com:GhostChild/VSCN_Homepage.git
